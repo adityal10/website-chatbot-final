@@ -1,16 +1,9 @@
-
-
-### `README.md`
-
-```markdown
-**JaajiChatbot – Retrieval-Augmented Website Assistant**
+# JaajiChatbot – Retrieval-Augmented Website Assistant
 
 JaajiChatbot is a local chatbot built to answer user queries based on website data. It uses **Retrieval-Augmented Generation (RAG)** and supports **open-source models** like `LLaMA 3` (via Ollama) and `Mistral 7B` (via HuggingFace).
-```
+
 
 ## Project Structure
-
-```
 
 jaaji_chatbot/
 ├── app.py                 # CLI chat interface
@@ -24,9 +17,6 @@ jaaji_chatbot/
 │   └── updated_website_data.csv  # Your website content
 ├── requirements.txt
 └── README.md
-```
-
----
 
 ## Setup
 
