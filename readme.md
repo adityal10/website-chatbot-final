@@ -60,7 +60,7 @@ MODEL_SOURCE = "llama"  # or "mistral"
 Make sure to do these steps for using mistral
 
 * Keep your HuggingFace API key in a secrets folder.
-* Go to this url `https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2` and accpet the terms and conditions after logging in using api key 
+* Go to this url [Mistral LLM](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) and accpet the terms and conditions after logging in using api key 
 ---
 
 ## How it Works
