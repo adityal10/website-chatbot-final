@@ -1,0 +1,8 @@
+transformers
+sentence-transformers
+faiss-cpu
+pandas
+requests
+torch
+accelerate
+python-dotenv
