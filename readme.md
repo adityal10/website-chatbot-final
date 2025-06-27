@@ -4,8 +4,8 @@ JaajiChatbot is a local chatbot built to answer user queries based on website da
 
 
 ## Project Structure
-
-jaaji_chatbot/
+```
+jaaji_chatbot
 ├── app.py                 # CLI chat interface
 ├── config.py              # Configuration: model, paths, chunking, etc.
 ├── data_loader.py         # CSV loader + cleaner
@@ -17,7 +17,7 @@ jaaji_chatbot/
 │   └── updated_website_data.csv  # Your website content
 ├── requirements.txt
 └── README.md
-
+```
 ## Setup
 
 1. **Clone the project**
