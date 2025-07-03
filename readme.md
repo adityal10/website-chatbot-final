@@ -1,6 +1,6 @@
-# JaajiChatbot – Retrieval-Augmented Website Assistant
+# Retrieval-Augmented Website Assistant
 
-JaajiChatbot is a local chatbot built to answer user queries based on website data. It uses **Retrieval-Augmented Generation (RAG)** and supports **open-source models** like `LLaMA 3` (via Ollama) and `Mistral 7B` (via HuggingFace).
+It is a local chatbot built to answer user queries based on website data. It uses **Retrieval-Augmented Generation (RAG)** and supports **open-source models** like `LLaMA 3` (via Ollama) and `Mistral 7B` (via HuggingFace).
 
 
 ## Project Structure
